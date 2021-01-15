@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076e44c7-2d1b-4b5a-9529-f9706e0f9ad4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/AccessControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/CopyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/GetterSetterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/InitializationBlocksExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/StaticMembersEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/AbstractionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/InterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/DemoInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceConstructorCallOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceSuperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritingPrivateMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/MultipleInheritanceProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/CompileTimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/RuntimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/UpDownCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/discussion/RuntimeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +45,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ml4bNsNZZ6dZBfQNsWVlsOOdVR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.ClassEx2" />
+    <configuration name="ClassEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopBasics1.ClassEx3" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demonstration1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Demonstration1" />
+    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.DemoInterface" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopBasics1.*" />
+          <option name="PATTERN" value="oopPrinciples.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demonstration6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Demonstration6" />
+    <configuration name="DemoSimpleAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.DemoSimpleAbstractClass" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopBasics1.*" />
+          <option name="PATTERN" value="oopPrinciples.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,10 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ClassEx4" />
-        <item itemvalue="Application.Demonstration6" />
+        <item itemvalue="Application.ClassEx3" />
         <item itemvalue="Application.ClassEx1" />
-        <item itemvalue="Application.ClassEx2" />
-        <item itemvalue="Application.Demonstration1" />
+        <item itemvalue="Application.DemoInterface" />
+        <item itemvalue="Application.DemoSimpleAbstractClass" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +167,11 @@
       <workItem from="1610058123624" duration="986000" />
       <workItem from="1610073985468" duration="626000" />
       <workItem from="1610140183048" duration="1603000" />
-      <workItem from="1610354843798" duration="3422000" />
+      <workItem from="1610354843798" duration="7178000" />
+      <workItem from="1610437163531" duration="6861000" />
+      <workItem from="1610507700514" duration="14601000" />
+      <workItem from="1610589330375" duration="12422000" />
+      <workItem from="1610669116522" duration="2943000" />
     </task>
     <servers />
   </component>
@@ -144,7 +183,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

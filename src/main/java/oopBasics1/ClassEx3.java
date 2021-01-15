@@ -2,7 +2,8 @@ package oopBasics1;
 
 //Constructor overloading example
 public class ClassEx3 {
-    int i;
+    int i =10 ;
+
     ClassEx3() {
         this.i = 5; // instance variable
 
@@ -10,6 +11,7 @@ public class ClassEx3 {
         //In Java, we could use this (5); instead of this.i=5; but other
         //languages may not support this kind of construct
     }
+    
     public ClassEx3(int i) {
 
         this.i = i;
@@ -19,6 +21,8 @@ public class ClassEx3 {
 //    {
 //        i = myInteger;
 //    }
+
+
 
     public static void main(String[] args) {
         System.out.println("*** A simple class with 2 different constructors ***");

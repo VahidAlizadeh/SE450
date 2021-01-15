@@ -1,4 +1,4 @@
-//package week1;
+//package oopBasics1;
 //
 //public class ClassEx2 {
 //
@@ -7,12 +7,12 @@
 //        this.i = i;
 //    }
 //
-//    // public ConsEx2() { }
+////     public ClassEx2() { }
 //
 //    public static void main(String[] args) {
 //        System.out.println("***Experiment with constructor***");
 //        ClassEx2 ob = new ClassEx2 ();
 //
-//        //ConsEx2 ob = new ConsEx2(25);//Choice-3
+////        ClassEx2 ob = new ClassEx2(25);//Choice-3
 //    }
 //}
