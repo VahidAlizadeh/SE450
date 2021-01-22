@@ -16,14 +16,15 @@ class ParentCls {
         System.out.println("Now a="+ this.a);
         System.out.println("Now b="+ this.b);
     }
-    void parentClsMethod() {
+    void parentClsMethod()
+    {
         System.out.println("I am a parent method.");
     }
 }
 class ChildCls extends ParentCls {
     private int c;
     ChildCls(int a, int b, int c) {
-//      System.out.println("Before setting,c="+ this.c);
+//        System.out.println("Before setting,c="+ this.c);
 //      Error:Constructor call must be the first statement in a constructor
         super(a, b);
         System.out.println("I am in child constructor.");
@@ -41,7 +42,7 @@ class ChildCls extends ParentCls {
 class DemoInheritanceSuperExample {
     public static void main(String[] args) {
         System.out.println("***DEMO: The uses of the 'super' keyword***");
-        ChildCls sampleObj = new ChildCls(1, 2, 3);
+        ChildCls sampleObj = new ChildCls(1,2,3);
         sampleObj.childClsMethod();
     }
 }

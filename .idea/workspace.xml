@@ -2,32 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076e44c7-2d1b-4b5a-9529-f9706e0f9ad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/AccessControlExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/CopyConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/GetterSetterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/InitializationBlocksExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/StaticMembersEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/AbstractionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/DemoInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceConstructorCallOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceSuperExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritingPrivateMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/MultipleInheritanceProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/CompileTimePolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/RuntimePolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/UpDownCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/discussion/RuntimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceAbstractExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDefaultMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDiamondProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceInheritClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/MultipleInheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics1/ClassEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics2/GetterSetterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/GetterSetterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceSuperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceSuperExample.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +46,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,13 +60,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassEx4">
-    <configuration name="ClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopBasics1.ClassEx1" />
+  <component name="RunManager" selected="Application.DemoConstructorChaining">
+    <configuration name="DemoAvoidDiamondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.discussion.DemoAvoidDiamondProblem" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopBasics1.*" />
+          <option name="PATTERN" value="oopPrinciples.abstraction.discussion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopBasics1.ClassEx3" />
+    <configuration name="DemoConsOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.inheritance.discussion.DemoConsOrder" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopBasics1.*" />
+          <option name="PATTERN" value="oopPrinciples.inheritance.discussion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopBasics1.ClassEx4" />
+    <configuration name="DemoConstructorChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.inheritance.discussion.DemoConstructorChaining" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopBasics1.*" />
+          <option name="PATTERN" value="oopPrinciples.inheritance.discussion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.DemoInterface" />
+    <configuration name="DemoInheritanceSuperExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.inheritance.discussion.DemoInheritanceSuperExample" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopPrinciples.abstraction.*" />
+          <option name="PATTERN" value="oopPrinciples.inheritance.discussion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSimpleAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.DemoSimpleAbstractClass" />
+    <configuration name="DemoInterfaceDefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.discussion.DemoInterfaceDefaultMethod" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopPrinciples.abstraction.*" />
+          <option name="PATTERN" value="oopPrinciples.abstraction.discussion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassEx4" />
-        <item itemvalue="Application.ClassEx3" />
-        <item itemvalue="Application.ClassEx1" />
-        <item itemvalue="Application.DemoInterface" />
-        <item itemvalue="Application.DemoSimpleAbstractClass" />
+        <item itemvalue="Application.DemoConstructorChaining" />
+        <item itemvalue="Application.DemoInheritanceSuperExample" />
+        <item itemvalue="Application.DemoConsOrder" />
+        <item itemvalue="Application.DemoAvoidDiamondProblem" />
+        <item itemvalue="Application.DemoInterfaceDefaultMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +154,8 @@
       <workItem from="1610437163531" duration="6861000" />
       <workItem from="1610507700514" duration="14601000" />
       <workItem from="1610589330375" duration="12422000" />
-      <workItem from="1610669116522" duration="2943000" />
+      <workItem from="1610669116522" duration="9822000" />
+      <workItem from="1611044933016" duration="16392000" />
     </task>
     <servers />
   </component>
@@ -190,5 +174,46 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
