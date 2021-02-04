@@ -5,11 +5,11 @@ public class MultipleInheritance {
 interface MyInterfaceA {
     void showA();
 }
-interface MyInterface5B {
+interface MyInterfaceB {
     void showB();
 }
 
-class MyClassMulti implements MyInterfaceA, MyInterface5B {
+class MyClassMulti implements MyInterfaceA, MyInterfaceB {
     @Override
     public void showA() {
         System.out.println("Inside MyClass5,show5A() is completed.");

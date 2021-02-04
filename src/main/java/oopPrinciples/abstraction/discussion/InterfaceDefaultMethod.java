@@ -22,10 +22,10 @@ class MyClassWithDefault implements InterfaceWithDefault {
     }
 
 //    Overriding the default method in an interface
-//    @Override
-//    public void defaultMethod() {
-//    System.out.println("MyClassWithDefault is overriding the default interface method.");
-//    }
+    @Override
+    public void defaultMethod() {
+    System.out.println("MyClassWithDefault is overriding the default interface method.");
+    }
 }
 class DemoInterfaceDefaultMethod {
     public static void main(String[] args) {

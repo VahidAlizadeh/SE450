@@ -2,21 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076e44c7-2d1b-4b5a-9529-f9706e0f9ad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceAbstractExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDefaultMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDiamondProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceInheritClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/MultipleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/CompositionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise2/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/Bookcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/Bookstore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/GenreUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/AlbumOriginal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/CourseRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/discussion.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/inheritance.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/discussion/discussion.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/polymorphism.plantuml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopBasics2/GetterSetterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopBasics2/GetterSetterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceSuperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/InheritanceSuperExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDefaultMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDiamondProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDiamondProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceInheritClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceInheritClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/MultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/MultipleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/CompileTimePolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/CompileTimePolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/UpDownCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/UpDownCasting.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,7 +71,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="assignment1.solution.exercise3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,7 +90,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoConstructorChaining">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment1.solution.exercise2.BookTest" />
+      <module name="se450winter2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment1.solution.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookstoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment1.solution.exercise3.BookstoreTest" />
+      <module name="se450winter2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment1.solution.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoAvoidDiamondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.discussion.DemoAvoidDiamondProblem" />
       <module name="se450winter2021" />
@@ -74,65 +130,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoConsOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.inheritance.discussion.DemoConsOrder" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
       <module name="se450winter2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopPrinciples.inheritance.discussion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoConstructorChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.inheritance.discussion.DemoConstructorChaining" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="se450winter2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopPrinciples.inheritance.discussion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoInheritanceSuperExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.inheritance.discussion.DemoInheritanceSuperExample" />
-      <module name="se450winter2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopPrinciples.inheritance.discussion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoInterfaceDefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.discussion.DemoInterfaceDefaultMethod" />
-      <module name="se450winter2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopPrinciples.abstraction.discussion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoConstructorChaining" />
-        <item itemvalue="Application.DemoInheritanceSuperExample" />
-        <item itemvalue="Application.DemoConsOrder" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.BookstoreTest" />
+        <item itemvalue="Application.BookTest" />
         <item itemvalue="Application.DemoAvoidDiamondProblem" />
-        <item itemvalue="Application.DemoInterfaceDefaultMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +173,14 @@
       <workItem from="1610507700514" duration="14601000" />
       <workItem from="1610589330375" duration="12422000" />
       <workItem from="1610669116522" duration="9822000" />
-      <workItem from="1611044933016" duration="16392000" />
+      <workItem from="1611044933016" duration="22103000" />
+      <workItem from="1611736017472" duration="4734000" />
+      <workItem from="1611874410447" duration="152000" />
+      <workItem from="1611874580668" duration="89000" />
+      <workItem from="1611874687625" duration="7680000" />
+      <workItem from="1611975399647" duration="6316000" />
+      <workItem from="1612251124946" duration="4181000" />
+      <workItem from="1612327722577" duration="1329000" />
     </task>
     <servers />
   </component>
@@ -179,39 +204,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/RuntimePolymorphism.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/RuntimePolymorphism.java</url>
           <line>17</line>
-          <option name="timeStamp" value="16" />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="17" />
+          <url>file://$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/ConstructorChainingExample.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

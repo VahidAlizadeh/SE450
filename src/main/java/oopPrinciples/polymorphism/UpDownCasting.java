@@ -13,7 +13,7 @@ class Bus extends Vehicle {
         System.out.println("Inside Bus.showMe()");
     }
     public void specificMethod() {
-        System.out.println("Inside Bus.showMe()");
+        System.out.println("Inside Bus.specificMethod()");
     }
 }
 class Train extends Vehicle {
@@ -30,7 +30,7 @@ class DemoUpDownCasting {
 //      ####Upcasting
         Vehicle obVehicle=new Train();//ok
         obVehicle.showMe();//Output: Inside Train.showMe()
-//      obVehicle.specificMethod();//error //Since the apparent type in the code is a Vehicle,
+//        obVehicle.specificMethod();//error //Since the apparent type in the code is a Vehicle,
 //      but not a Train. Need downcasting Line43 and 44
 
 //      Creating two subtype(one Bus and one Train) object
@@ -38,7 +38,7 @@ class DemoUpDownCasting {
         Train obTrain=new Train();
 
 //      ####Downcasting :Casting to a subtype
-//      obBus=(Bus)obVehicle;       //Run-time error:Train cannot be cast to Bus //If you uncomment this line, you will not receive any compilation errors, but you will
+//       obBus=(Bus)obVehicle;       //Run-time error:Train cannot be cast to Bus //If you uncomment this line, you will not receive any compilation errors, but you will
 //      encounter a runtime exception
 
         obTrain=(Train)obVehicle;   //Ok, this time it is ok.

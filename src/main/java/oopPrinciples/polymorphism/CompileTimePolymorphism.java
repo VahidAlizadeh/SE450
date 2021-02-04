@@ -24,6 +24,6 @@ class DemoCompileTimePolymorphism {
         double sumOfDoubles = additionObj.sum(399.5, 50.5);
         System.out.println("399.5 + 50.5 is :" + sumOfDoubles);
         String sumOfStrings = additionObj.sum("Vahid", "Alizadeh");
-        System.out.println("'Smith'+ 'Turner' is :" + sumOfStrings);
+        System.out.println("'Vahid'+ 'Alizadeh' is :" + sumOfStrings);
     }
 }

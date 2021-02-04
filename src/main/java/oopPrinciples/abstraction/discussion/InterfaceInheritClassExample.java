@@ -34,16 +34,18 @@ class DemoInterfaceInheritance {
         System.out.println("***Demo Interface can extend other interfaces\n");
         //Creating a MySampleClass object
         MySampleClass mySampleClassOb = new MySampleClass();
-
         //Upcasting
-        //Similar to: ((InterfaceAA) mySampleClassOb).showInterfaceAAMethod();
+//        Similar to: ((InterfaceAA) mySampleClassOb).showInterfaceAAMethod();
 
         InterfaceAA interAA = mySampleClassOb;
         interAA.showInterfaceAAMethod();
+
         InterfaceBB interBB = mySampleClassOb;
         interBB.showInterfaceBBMethod();
+
         InterfaceCC interCC = mySampleClassOb;
         interCC.showInterfaceCCMethod();
+
         //Calling directly through mySampleClassOb.
         System.out.println("\n**Now invoking the methods directly through a MyClass object.**\n");
         mySampleClassOb.showInterfaceAAMethod();

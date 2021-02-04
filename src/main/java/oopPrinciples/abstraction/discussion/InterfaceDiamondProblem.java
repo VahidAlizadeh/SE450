@@ -21,6 +21,7 @@ class MyNewClass implements DefaultInterfaceA, DefaultInterfaceB {
     public void show() {
         System.out.println("MyNewClass is implementing the Interface method-show().");
     }
+
     @Override
     public void myDefaultMethod() {
         System.out.println("MyNewClass must implement this method.");
