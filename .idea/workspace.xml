@@ -2,37 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076e44c7-2d1b-4b5a-9529-f9706e0f9ad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/CompositionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise2/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/Bookcase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/Bookstore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/GenreUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/AlbumOriginal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise4/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/CourseRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment1/solution/exercise5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/discussion/discussion.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/inheritance/inheritance.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/discussion/discussion.plantuml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/polymorphism.plantuml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/MotorHomeAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/MotorHomeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeAEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeAFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeAFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeAKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeAStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeBEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeBFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeBFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeBKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeBStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeCEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeCFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeCFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeCKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/TypeCStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/FactoryMethod/mower/ConcreteMowerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/FactoryMethod/mower/Mower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/FactoryMethod/mower/MowerDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/FactoryMethod/mower/MowerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/FactoryMethod/mower/Push.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/FactoryMethod/mower/Riding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/BankAccountUsecase/AccountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/BankAccountUsecase/CreateBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/BillPugh/BillPughSingeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/Eager/EagerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/Lazy/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Singleton/StaticBlock/StaticBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MidtermExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDefaultMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDiamondProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceDiamondProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceInheritClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/InterfaceInheritClassExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/MultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/abstraction/discussion/MultipleInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/CompileTimePolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/CompileTimePolymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/UpDownCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oopPrinciples/polymorphism/UpDownCasting.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,6 +71,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -90,13 +97,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment1.solution.exercise2.BookTest" />
+  <component name="RunManager" selected="Application.AccountDriver">
+    <configuration name="AccountDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Singleton.BankAccountUsecase.AccountDriver" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment1.solution.exercise2.*" />
+          <option name="PATTERN" value="DesignPatterns.Singleton.BankAccountUsecase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,15 +124,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoAvoidDiamondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopPrinciples.abstraction.discussion.DemoAvoidDiamondProblem" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="se450winter2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopPrinciples.abstraction.discussion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountDriver" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.BookstoreTest" />
-        <item itemvalue="Application.BookTest" />
-        <item itemvalue="Application.DemoAvoidDiamondProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +182,9 @@
       <workItem from="1611975399647" duration="6316000" />
       <workItem from="1612251124946" duration="4181000" />
       <workItem from="1612327722577" duration="1329000" />
+      <workItem from="1612850926525" duration="1839000" />
+      <workItem from="1613291211903" duration="586000" />
+      <workItem from="1613551953135" duration="11012000" />
     </task>
     <servers />
   </component>
@@ -199,6 +203,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -232,6 +239,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/assignment1/solution/exercise3/BookstoreTest.java</url>
           <line>39</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
