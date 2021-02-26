@@ -3,7 +3,6 @@ package DesignPatterns.Decorator.PrintTextExample;
 import java.util.stream.Collectors;
 
 public class PrintTextHexDecorator extends PrintTextDecorator {
-    private PrintText inner;
     public PrintTextHexDecorator(PrintText inner)
     {
         super(inner);

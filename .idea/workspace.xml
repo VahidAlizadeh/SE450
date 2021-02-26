@@ -2,70 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076e44c7-2d1b-4b5a-9529-f9706e0f9ad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/ComputerExample/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/ComputerExample/TestFluentBuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/RoasterExample/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/RoasterExample/CommercialRoaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/RoasterExample/PersonalRoaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/RoasterExample/Roaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/RoasterExample/RoasterDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Builder/RoasterExample/RoasterDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/ATMExample/ATMDispenseClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/ATMExample/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/ATMExample/DispenseChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/ATMExample/Dollar10Dispenser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/ATMExample/Dollar20Dispenser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/ATMExample/Dollar50Dispenser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/ComplaintHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/FanHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/MailChainDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/NewLocHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/SpamHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/AcademicEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/AdminEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/AdvisingEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/AlumniEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/FinanceEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/HREmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/MainEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/UniversityEmailExample/UniversityEmailHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/DrawingAppExample/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/DrawingAppExample/CompisiteClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/DrawingAppExample/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/DrawingAppExample/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/DrawingAppExample/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/FinancialAppExample/AccountComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/FinancialAppExample/AccountStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/FinancialAppExample/CompositeAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/FinancialAppExample/DepositAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/FinancialAppExample/FinancialAppClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/FinancialAppExample/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/KitchenStaffExample/Chef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/KitchenStaffExample/KitchenStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/KitchenStaffExample/KitchenStaffDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/BasicCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/CarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/CarManufacturingDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/LuxuryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintAsciiText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextHexDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/AbstractDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcreteDecorator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcreteDecorator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcretePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/problem/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/problem/ConverterGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/MotorHomeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/AbstractFactory/MotorHome/MotorHomeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/CarManufacturingDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/CarManufacturingDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextHexDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextHexDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcretePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcretePrinter.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,13 +75,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FinancialAppClient">
-    <configuration name="ATMDispenseClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.ChainOfResponsibility.ATMExample.ATMDispenseClient" />
+  <component name="RunManager" selected="Application.PrintTextDriver">
+    <configuration name="CarManufacturingDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Decorator.CarExample.CarManufacturingDriver" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.ChainOfResponsibility.ATMExample.*" />
+          <option name="PATTERN" value="DesignPatterns.Decorator.CarExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DecoratorDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Decorator.PrinterExample.DecoratorDriver" />
+      <module name="se450winter2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.Decorator.PrinterExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FinancialAppClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPatterns.Composite.FinancialAppExample.FinancialAppClient" />
       <module name="se450winter2021" />
@@ -173,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KitchenStaffDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Composite.KitchenStaffExample.KitchenStaffDriver" />
+    <configuration name="PrintTextDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Decorator.PrintTextExample.PrintTextDriver" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.Composite.KitchenStaffExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MailChainDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.ChainOfResponsibility.EmailForwardingExample.MailChainDriver" />
-      <module name="se450winter2021" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignPatterns.ChainOfResponsibility.EmailForwardingExample.*" />
+          <option name="PATTERN" value="DesignPatterns.Decorator.PrintTextExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintTextDriver" />
+        <item itemvalue="Application.DecoratorDriver" />
+        <item itemvalue="Application.CarManufacturingDriver" />
         <item itemvalue="Application.FinancialAppClient" />
         <item itemvalue="Application.CompisiteClient" />
-        <item itemvalue="Application.KitchenStaffDriver" />
-        <item itemvalue="Application.MailChainDriver" />
-        <item itemvalue="Application.ATMDispenseClient" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +183,7 @@
       <workItem from="1613551953135" duration="16530000" />
       <workItem from="1613982301180" duration="4078000" />
       <workItem from="1614138710591" duration="17327000" />
-      <workItem from="1614296081533" duration="1111000" />
+      <workItem from="1614296081533" duration="3688000" />
     </task>
     <servers />
   </component>
@@ -341,6 +283,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/MidtermExam.java</url>
           <line>56</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/DecoratorDriver.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
