@@ -4,7 +4,6 @@ public class FanHandler implements Handler {
 
     private Handler chain;
     @Override
-
     public void setNextChain(Handler nextChain) {
         this.chain=nextChain;
     }

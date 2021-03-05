@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="076e44c7-2d1b-4b5a-9529-f9706e0f9ad4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/RealEstateExample/AcreageDeterminator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/RealEstateExample/AcreageDeterminatorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/RealEstateExample/AdapterDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/RealEstateExample/Estate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/RealEstateExample/Lot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/TextFormatter/CsvAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/TextFormatter/CsvFormattable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/TextFormatter/CsvFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/TextFormatter/FormatterDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/TextFormatter/NewLineFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/TextFormatter/TextFormattable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/VoltageConverterExample/Socket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/VoltageConverterExample/SocketAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/VoltageConverterExample/SocketAdapterDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/VoltageConverterExample/SocketClassAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/VoltageConverterExample/SocketObjectAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/VoltageConverterExample/Volt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/CarManufacturingDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/CarExample/CarManufacturingDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextHexDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrintTextExample/PrintTextHexDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcretePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Decorator/PrinterExample/ConcretePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/FanHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/ChainOfResponsibility/EmailForwardingExample/FanHandler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,22 +59,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DesignPatterns/Composite/KitchenStaffExample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DesignPatterns/Adapter/RealEstateExample" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="assignment1.solution.exercise3" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\@D\OneDrive - DePaul University\@D\@DePaul\Courses\SE 450\Lectures\Codes\se450winter2021\src\main\java\DesignPatterns\Adapter\RealEstateExample" />
       <recent name="C:\@D\OneDrive - DePaul University\@D\@DePaul\Courses\SE 450\Lectures\Codes\se450winter2021\src\main\java\DesignPatterns\Composite\KitchenStaffExample" />
       <recent name="C:\@D\OneDrive - DePaul University\@D\@DePaul\Courses\SE 450\Lectures\Codes\se450winter2021\src\main\java\DesignPatterns\ChainOfResponsibility\UniversityEmailExample" />
       <recent name="C:\@D\OneDrive - DePaul University\@D\@DePaul\Courses\SE 450\Lectures\Codes\se450winter2021\src\main\java\DesignPatterns\Decorator\PrinterExample" />
       <recent name="C:\@D\OneDrive - DePaul University\@D\@DePaul\Courses\SE 450\Lectures\Codes\se450winter2021\src\main\java\assignment2\problem" />
-      <recent name="C:\@D\OneDrive - DePaul University\@D\@DePaul\Courses\SE 450\Lectures\Codes\se450winter2021\src\main\java\assignment2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="assignment1.solution.exercise3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,13 +89,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintTextDriver">
-    <configuration name="CarManufacturingDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Decorator.CarExample.CarManufacturingDriver" />
+  <component name="RunManager" selected="TestNG.FormatterDriver">
+    <configuration name="AdapterDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Adapter.RealEstateExample.AdapterDriver" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.Decorator.CarExample.*" />
+          <option name="PATTERN" value="DesignPatterns.Adapter.RealEstateExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompisiteClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Composite.DrawingAppExample.CompisiteClient" />
+    <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment3.problem.Converter" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.Composite.DrawingAppExample.*" />
+          <option name="PATTERN" value="assignment3.problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoratorDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Decorator.PrinterExample.DecoratorDriver" />
+    <configuration name="MailChainDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.ChainOfResponsibility.EmailForwardingExample.MailChainDriver" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.Decorator.PrinterExample.*" />
+          <option name="PATTERN" value="DesignPatterns.ChainOfResponsibility.EmailForwardingExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinancialAppClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Composite.FinancialAppExample.FinancialAppClient" />
+    <configuration name="SocketAdapterDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Adapter.VoltageConverterExample.SocketAdapterDriver" />
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.Composite.FinancialAppExample.*" />
+          <option name="PATTERN" value="DesignPatterns.Adapter.VoltageConverterExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,26 +142,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTextDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Decorator.PrintTextExample.PrintTextDriver" />
+    <configuration name="FormatterDriver" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="se450winter2021" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPatterns.Decorator.PrintTextExample.*" />
+          <option name="PATTERN" value="DesignPatterns.Adapter.TextFormatter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="DesignPatterns.Adapter.TextFormatter" />
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Adapter.TextFormatter.FormatterDriver" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintTextDriver" />
-        <item itemvalue="Application.DecoratorDriver" />
-        <item itemvalue="Application.CarManufacturingDriver" />
-        <item itemvalue="Application.FinancialAppClient" />
-        <item itemvalue="Application.CompisiteClient" />
+        <item itemvalue="TestNG.FormatterDriver" />
+        <item itemvalue="Application.SocketAdapterDriver" />
+        <item itemvalue="Application.AdapterDriver" />
+        <item itemvalue="Application.Converter" />
+        <item itemvalue="Application.MailChainDriver" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +201,10 @@
       <workItem from="1613551953135" duration="16530000" />
       <workItem from="1613982301180" duration="4078000" />
       <workItem from="1614138710591" duration="17327000" />
-      <workItem from="1614296081533" duration="3688000" />
+      <workItem from="1614296081533" duration="8959000" />
+      <workItem from="1614569690387" duration="27000" />
+      <workItem from="1614571257512" duration="108000" />
+      <workItem from="1614764116684" duration="7417000" />
     </task>
     <servers />
   </component>
