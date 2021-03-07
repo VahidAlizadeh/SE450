@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2021.
+ * Vahid Alizadeh
+ * SE 450
+ * DePaul University
+ */
+
 package oopPrinciples.inheritance;
 
 import java.util.List;

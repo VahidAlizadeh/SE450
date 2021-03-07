@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2021.
+ * Vahid Alizadeh
+ * SE 450
+ * DePaul University
+ */
+
 package oopBasics2;
 
 public class OuterClass { //this is Outer class

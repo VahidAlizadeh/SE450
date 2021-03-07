@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2021.
+ * Vahid Alizadeh
+ * SE 450
+ * DePaul University
+ */
+
 package oopPrinciples.polymorphism;
 
 //Example of Upcasting and Downcasting
